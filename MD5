@@ -1,0 +1,13 @@
+092767ac9f0333071724d0ea3aa6bd97 *DESCRIPTION
+519c766be38b2fc62ae9bcd596240fee *NAMESPACE
+db54ce82c5a4dfa25b0e31b09f7503dc *R/CV.R
+273ccdd39c78c7d4b1ffc14144c7e72e *R/CVP.R
+decea5cf4ecb3ef22784bdac87d9f967 *R/glasso.R
+7c799889fa56f5ecd96d1d33e20ae7b2 *R/misc.R
+7e86128d812bfdd967330d38955ac665 *man/CV.Rd
+dec23246a9f6e381d57a0da224fe20ad *man/CVP.Rd
+e9ff6dcb9dbb57950ba40deed9b18942 *man/CVglasso.Rd
+ef36aff5fbd71d260a25ce802d1e2375 *man/plot.CVglasso.Rd
+57a6e2bc763664f0a43b50cd763dea10 *man/print.CVglasso.Rd
+194c5f704fe10f68eaa66a71db244380 *tests/testthat.R
+71e71a93acdeca1df3fb8a1968fe011d *tests/testthat/testCVglasso.R
